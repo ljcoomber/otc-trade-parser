@@ -9,8 +9,8 @@ import java.util.List;
 import org.junit.Before;
 
 public abstract class AbstractTradeParserTest {
-    protected TradeParser parser;
 
+    protected TradeParser parser;
 
     @Before
     public void init() throws Exception {

@@ -36,20 +36,10 @@ public class BrokerCTest extends AbstractTradeParserTest {
 	public void fence() {
 		testPlainLine("WTI: Q211 70/110 Fence x84.50, 185/205");
 	}
-	
-	@Test
-	public void putRoll() {
-		// None available
-	}
 
 	@Test
 	@Ignore	
 	public void callRoll() {
 		testPlainLine("GASOIL: Q211/Q411 ATM Call Roll (745/765), 20.25/23.25");
-	}
-
-	@Test
-	public void straddleRoll() {
-		// None available
 	}
 }

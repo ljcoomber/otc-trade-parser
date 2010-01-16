@@ -4,8 +4,6 @@ import net.lshift.lee.otc.AbstractTradeParserTest;
 
 import org.junit.Test;
 
-// 
-// 
 public class BrokerBTest extends AbstractTradeParserTest {
 
 	@Test
@@ -42,28 +40,12 @@ public class BrokerBTest extends AbstractTradeParserTest {
 	public void callSpreadWithVernacular() {
 		testPlainLine("OTC  H 85/100 cs vs 84.50 466/473 37d, ppr interest");
 	}
-	
-	@Test
-	public void straddle() {
-	}
-	
+
 	@Test
 	public void fence() {
 		testPlainLine("Electro M   M 60p/100c fence vs 8150...60/70");
 	}
-	
-	@Test
-	public void putRoll() {
-	}
 
-	@Test
-	public void callRoll() {
-	}
-
-	@Test
-	public void straddleRoll() {
-	}
-	
 	@Test
 	public void calendarSpread1() {
 		testPlainLine("OTC Crude CSO:  X/Z -200/-500 ps 15/22");
@@ -99,8 +81,6 @@ public class BrokerBTest extends AbstractTradeParserTest {
 	public void calendarSpread7() {
 		testPlainLine("OTC: Z/F -175p 17/20"); 
 	}
-		
-
 	
 	@Test
 	public void CalendarSpreadStrip() {
@@ -126,11 +106,5 @@ public class BrokerBTest extends AbstractTradeParserTest {
 	@Test
 	public void averagePriceOption() {
 		testPlainLine("OTC  APO 1Q11 105c vs 82.50 74/81 now");
-	}
-	
-	@Test
-	// TODO: Should this be calendar spread?
-	public void testOTC() {
-		
 	}
 }

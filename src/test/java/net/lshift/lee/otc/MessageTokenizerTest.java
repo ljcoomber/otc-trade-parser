@@ -17,7 +17,7 @@ public class MessageTokenizerTest {
 	}
 	
     @Test
-    public void tokenizingBrokerASampleShouldProduce52Messages() throws Throwable {
+    public void tokenizingBrokerASampleShouldProduce7Messages() throws Throwable {
         MessageTokenizer mt = new MessageTokenizer(new File("src/test/resources/sample-logs/broker-a.txt"), System.out);
         mt.tokenize(new TestMessageHandler());
         assertEquals(7, mt.getMessageCount());
