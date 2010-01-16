@@ -8,7 +8,7 @@ import java.util.List;
 
 import org.junit.Before;
 
-public abstract class AbstractDcgParserTest {
+public abstract class AbstractTradeParserTest {
     protected DcgParser parser;
 
 

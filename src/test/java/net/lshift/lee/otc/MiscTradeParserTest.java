@@ -9,7 +9,7 @@ import java.io.IOException;
 
 import org.junit.Test;
 
-public class MiscDcgParserTest extends AbstractDcgParserTest {
+public class MiscTradeParserTest extends AbstractTradeParserTest {
 	@Test
     public void testBodyTokenizer() {
         String body = "brt q1 11 80.00 put x8400, 412/426";
