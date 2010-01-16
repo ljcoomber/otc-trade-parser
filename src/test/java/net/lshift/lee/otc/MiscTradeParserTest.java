@@ -25,17 +25,17 @@ public class MiscTradeParserTest extends AbstractTradeParserTest {
     
     @Test
     public void testSeparator() {
-    	assertTrue(DcgParser.isSeparator(","));
-    	assertTrue(DcgParser.isSeparator(".."));
-    	assertTrue(DcgParser.isSeparator("..."));
-    	assertTrue(DcgParser.isSeparator("...."));
-    	assertTrue(DcgParser.isSeparator(":"));
-    	assertFalse(DcgParser.isSeparator("."));
+    	assertTrue(TradeParser.isSeparator(","));
+    	assertTrue(TradeParser.isSeparator(".."));
+    	assertTrue(TradeParser.isSeparator("..."));
+    	assertTrue(TradeParser.isSeparator("...."));
+    	assertTrue(TradeParser.isSeparator(":"));
+    	assertFalse(TradeParser.isSeparator("."));
     }
     
     @Test
-    public void testSeparatorAtEnd() throws IOException, PrologException {    
-    	DcgParser parser = new DcgParser();
+    public void testSeparatorAtEnd() throws IOException, PrologException {
+        TradeParser parser = new TradeParser();
     	String pList = parser.toPrologList("Z11 120c LIVE  198/201 now..");
     	assertEquals("['z', 11, 120, 'c', 'live', 198, '/', 201, 'now']", pList);
     }

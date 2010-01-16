@@ -52,7 +52,7 @@ public class AppTest {
 
 
     class TestMessageHandler implements MessageHandler {
-        private DcgParser parser;
+        private TradeParser parser;
         private PrintWriter writer;
 
         int success = 0;
@@ -60,7 +60,7 @@ public class AppTest {
         int ambiguous = 0;
 
         public TestMessageHandler(OutputStream os) throws PrologException, IOException {
-            parser = new DcgParser();
+            parser = new TradeParser();
             writer = new PrintWriter(os);
         }
 

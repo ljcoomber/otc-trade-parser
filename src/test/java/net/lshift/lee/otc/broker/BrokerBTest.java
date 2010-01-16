@@ -1,12 +1,12 @@
 package net.lshift.lee.otc.broker;
 
-import net.lshift.lee.otc.AbstractDcgParserTest;
+import net.lshift.lee.otc.AbstractTradeParserTest;
 
 import org.junit.Test;
 
 // 
 // 
-public class BrokerBTest extends AbstractDcgParserTest {
+public class BrokerBTest extends AbstractTradeParserTest {
 
 	@Test
 	public void vanillaPut1() {

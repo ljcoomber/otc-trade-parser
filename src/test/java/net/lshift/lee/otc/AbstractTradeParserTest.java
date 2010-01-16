@@ -9,12 +9,12 @@ import java.util.List;
 import org.junit.Before;
 
 public abstract class AbstractTradeParserTest {
-    protected DcgParser parser;
+    protected TradeParser parser;
 
 
     @Before
     public void init() throws Exception {
-         parser = new DcgParser();
+         parser = new TradeParser();
     }
 
     public void testPlainLine(String line) {
