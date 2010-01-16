@@ -1,0 +1,16 @@
+Conversation with Broker A on 01/01/2009 00:00:00 AM:
+(00:00:00 AM) Broker A: Hi Graham
+(00:00:01 AM) Broker A: BRT Q1 11 80.00 Put x8400, 412/426
+(00:00:02 AM) Broker A: WTI American Z10 85.00 Call x81.00, 1.11/1.22
+(00:00:03 AM) Broker A: Wassup!
+(00:00:04 AM) Graham: Dude, I'm on phone
+(00:00:05 AM) Broker A: Sorry
+(00:00:06 AM) Graham: np
+(00:00:07 AM) Broker A: WTI APO 1H1177.00/67.00 PS x84.00,  2.40/2.50
+(00:00:08 AM) Broker A: WTI APO Q1-11 90.00/110.00 cs x 83.50, 2.84/2.90
+(00:00:09 AM) Broker A: WTI American H11 83.00 Straddle, 12.20/12.50
+WTI APO 2H11 100.00/65.00 1*1.5 Fence x 85.50,  12/27 (1.5 Put)
+
+WTI American F11/M11 80.00 Put Roll, (82.15/84.50), 3.04/3.14
+(00:00:10 AM) Broker A: WTI American Z10/H11 straddle roll (81.00/83.00) 6.80/6.90
+(00:00:11 AM) Broker A: WTI American Z10/H11 straddle roll (81.00/83.00, 6.80/7.00

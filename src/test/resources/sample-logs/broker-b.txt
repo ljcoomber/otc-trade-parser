@@ -1,0 +1,30 @@
+Conversation with Broker B on 1/1/2010 00:00:00 PM:
+(00:00:00 AM) Broker B: OTC Crude CSO:  X/Z / Z/F -200 put roll  2/4 to the x/z
+(00:00:01 AM) Broker B Old is now known as Broker B.
+(00:00:02 AM) Broker B: 2 bid joined
+(00:00:03 AM) Broker B: F 83p vs 8300....442/445... 44d
+(00:00:04 AM) Broker B: Z12 110c vs 8730...640/650
+(00:00:05 AM) Broker B: Electro M   M 60p/100c fence vs 8150...60/70
+(00:00:06 AM) Broker B: Q1 Flat Call 17/25
+(00:00:07 AM) Broker B: X 68p/71p vs 7750...17/18
+(00:00:08 AM) Broker B: Electro M  Z 85c/100c 1x3 vs 7750...58/68
+(00:00:09 AM) Broker B: OTC  H 85/100 cs vs 84.50 466/473 37d, ppr interest
+(00:00:10 AM) Broker B: Electro M   M 60p/100c fence vs 8150...60/70
+(00:00:11 AM) Broker B: OTC Crude CSO:  X/Z -200/-500 ps 15/22
+
+
+OTC Crude CSO:  X/Z -200/-500 ps cso 19/26
+(00:00:12 AM) Broker B: X/Z -100p 22/30, X/Z -150p 13/20, Z/F -100p 30/37
+(00:00:13 AM) Broker B: brb
+(00:00:14 AM) Broker B: OTC Crude CSO  2H11 -50c/+50c 38/41 now
+(00:00:15 AM) Broker B: OTC Crude CSO:  X/Z -2.00p   13/18
+(00:00:16 AM) Broker B: Electro M  X 68p/71p vs 7750...17/18
+(00:00:17 AM) Broker B: OTC: Z/F -175p 17/20
+(00:00:18 AM) Broker B: OTC: F/G-G/H -125p strip 20/27
+(00:00:19 AM) Broker B: X 7650p vs 8170... 36/38 now
+(00:00:20 AM) Broker B: OTC  APO 1Q11 105c vs 82.50 74/81 now more
+(00:00:21 AM) Broker B: OTC  APO 1Q11 105c vs 82.50 74/81 now much more
+(00:00:22 AM) Broker B: OTC  APO 1Q11 105c vs 82.50 74/81 now
+
+
+

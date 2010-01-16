@@ -1,0 +1,9 @@
+Conversation with Broker C on 1/1/2010 0:00:00 AM:
+(00:00:00 PM) Broker C: GASOIL AMERICAN: Nov10 680 Put x 681, 22.25/22.75
+(00:00:01 PM) Broker C: Sorry, morning!
+(00:00:02 PM) Broker C: WTI: (LO) Z10 100 Call x 82.00, 8/13
+(00:00:03 PM) Broker C: WTI: 2H11 60/80 1x2 Put Spread x86.50, 320/335
+(00:00:04 PM) Broker C: WTI (LO) F11 88/98 Call Spread x 80.00, 116/126
+(00:00:05 PM) Broker C: WTI (LO) Z/F Straddle Spread 2.40/2.60
+(00:00:06 PM) Broker C: WTI: Q211 70/110 Fence x84.50, 185/205
+(00:00:07 PM) Broker C: GASOIL: Q211/Q411 ATM Call Roll (745/765), 20.25/23.25
